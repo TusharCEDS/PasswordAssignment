@@ -7,14 +7,14 @@ It allows users to **generate, save, search, edit, and delete** passwords in a s
 
 ## 🚀 Live Demo
 
-👉 **[Live Demo URL](https://your-deployed-site-link.vercel.app)**  
+👉 **[Live Demo URL](https://psssw.netlify.app/)**  
 *(Replace this with your deployed Vercel link)*
 
 ---
 
 ## 💻 GitHub Repository
 
-🔗 **[GitHub Repo Link](https://github.com/your-username/neurovault)**  
+🔗 **[GitHub Repo Link](https://github.com/TusharCEDS/PasswordAssignment)**  
 
 ---
 
